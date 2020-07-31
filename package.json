@@ -1,0 +1,22 @@
+{
+  "name": "backendhw",
+  "version": "1.0.0",
+  "description": "homework1",
+  "main": "greeting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nealchristopherb/backendhw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nealchristopherb/backendhw/issues"
+  },
+  "homepage": "https://github.com/nealchristopherb/backendhw#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
