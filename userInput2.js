@@ -14,7 +14,6 @@ inquirer
       message: "User Name:",
       name: "username"
     },
-    
 // Prompts user for a password    
     {
       type: "password",
@@ -48,15 +47,14 @@ inquirer
       });
 }
 })
-userQuestions();
-// function userQuestions() {
-//   inquirer.prompt([
-//       type: "checkbox",
-//       message: "How are you?",
-//       name: "selfRate"
-//       choices: 
-//         "Delighted", 
-//         "Good", 
-//         "Ok", 
-//         "Blah"
-//       ])}
+function userQuestions(selfRate) {
+inquirer.prompt([
+    type "checkbox",
+    message "How are you?",
+    name "selfRate"
+    choices 
+      "Delighted", 
+      "Good", 
+      "Ok", 
+      "Blah"
+    ])}
