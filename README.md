@@ -13,7 +13,7 @@ To achieve the goal a script had to be developed that asked for a user name and 
 Structure
 
 The file uses Inquirer prompts to collect user name and password.  Then the user is asked to re-enter password. The script returns an error message asking for re-submission if the passwords do not match and then finally passes the data on to the text file if the passswords do match.  A success notification is added to alert the user that script completed successfully.
-
+![](https://github.com/nealchristopherb/backendhw/blob/master/userinput.gif)
 Credits
 
 Thanks must be given to Amber Kellum, Darius Mitchell, Harsha Javle, Kyle Lacy, Nia Laing
